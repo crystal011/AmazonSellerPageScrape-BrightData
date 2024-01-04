@@ -1,0 +1,9 @@
+data/brands/*.json
+data/items/*.json
+data/items/items/*.json
+bin/
+*.csv
+*.json
+*.xlsx
+*.gz
+__pycache__
